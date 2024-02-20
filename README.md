@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![jgravalo's 42 stats](https://badge.mediaplus.ma/greenbinary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![jgravalo's 42 stats](https://badge.mediaplus.ma/greenbinary/jgravalo?1337Badge=off&UM6P=off)](https://github.com/jgravalo/42Cursus)
 
 </div>
 
