@@ -24,9 +24,9 @@
       ├─ lvl_4/
          ├─ cub3D/             Ray casting engine written in C
          ├─ netPractice/       Network fundamentals
-         ├─ cppModules/        C++ basics, OOP fundamentals
+         ├─ cppModules/        C++ basics, OOP fundamentals. Classes, overloads and heritances
       ├─ lvl_5/
-         ├─ cppModules2/       C++ basics, OOP fundamentals
+         ├─ cppModules2/       C++ basics, OOP fundamentals. Exceptions, templates and containers
          ├─ webserv/           Web server in C++ 98
          ├─ inception/         Creation of Docker network, with NGINX, Wordpress and MariaDB
       └─ lvl_6/
@@ -53,6 +53,10 @@
 | [cpp07](https://github.com/jgravalo/CPP-modules_2/tree/master/07)  | [tasks](https://github.com/jgravalo/CPP-modules_2/tree/master/07/subject.pdf) |   100 |
 | [cpp08](https://github.com/jgravalo/CPP-modules_2/tree/master/08)  | [tasks](https://github.com/jgravalo/CPP-modules_2/tree/master/08/subject.pdf) |   100 |
 | [cpp09](https://github.com/jgravalo/CPP-modules_2/tree/master/09)  | [tasks](https://github.com/jgravalo/CPP-modules_2/tree/master/09/subject.pdf) |   100 |
+| [webserv](https://github.com/jgravalo/webserv) | [tasks](https://github.com/jgravalo/webserv/subject.pdf) | 100
+| [inception](https://github.com/jgravalo/Inception) | [tasks](https://github.com/jgravalo/Inception/subject.pdf) | -
+| [ft_transcendence](https://github.com/jgravalo/ft_transcendence)  | [tasks](https://github.com/jgravalo/ft_transcendence/subject.pdf) |   - |
+
 
 ## lvl_0
 ### [libft](https://github.com/jgravalo/Libft)
@@ -71,3 +75,8 @@
 ### [cppModules](https://github.com/jgravalo/CPP-modules)
 ## lvl_5
 ### [cppModules2](https://github.com/jgravalo/CPP-modules_2)
+### [webserv](https://github.com/jgravalo/webserv)
+### [inception](https://github.com/jgravalo/Inception)
+## lvl_6
+### [ft_transcendence](https://github.com/jgravalo/ft_transcendence)
+
