@@ -36,9 +36,9 @@
 |----------- | ------- |------|
 | [libft](https://github.com/jgravalo/Libft)      | [tasks](https://github.com/jgravalo/Libft/subject.pdf) |  125 |
 | [ft_printf](https://github.com/jgravalo/ft_printf)  | [tasks](https://github.com/jgravalo/ft_printf/subject.pdf) |   100 |
-| [get_next_line](https://github.com/jgravalo/Get_next_line) | [tasks](https://github.com/jgravalo/Get_next_line/subject.pdf) | 100 |
-| [push_swap](https://github.com/jgravalo/Push_swap) | [tasks](https://github.com/jgravalo/Push_swap/subject.pdf) | 92
-| [pipex](https://github.com/jgravalo/Pipex)  | [tasks](https://github.com/jgravalo/Pipex/subject.pdf) |   100 |
+| [get_next_line](https://github.com/jgravalo/Get_next_line) | [tasks](https://github.com/jgravalo/Get_next_line/subject.pdf) | 125 |
+| [push_swap](https://github.com/jgravalo/Push_swap) | [tasks](https://github.com/jgravalo/Push_swap/subject.pdf) | 125
+| [pipex](https://github.com/jgravalo/Pipex)  | [tasks](https://github.com/jgravalo/Pipex/subject.pdf) |   125 |
 | [fdf](https://github.com/jgravalo/FdF)  | [tasks](https://github.com/jgravalo/FdF/subject.pdf) |   100 |
 | [philosophers](https://github.com/jgravalo/Philosophers)  | [tasks](https://github.com/jgravalo/Philosophers/subject.pdf) |   100 |
 | [minishell](https://github.com/jgravalo/Minishell)  | [tasks](https://github.com/jgravalo/ft_printf/subject.pdf) |   100 |
@@ -54,8 +54,8 @@
 | [cpp08](https://github.com/jgravalo/CPP-modules_2/tree/master/08)  | [tasks](https://github.com/jgravalo/CPP-modules_2/tree/master/08/subject.pdf) |   100 |
 | [cpp09](https://github.com/jgravalo/CPP-modules_2/tree/master/09)  | [tasks](https://github.com/jgravalo/CPP-modules_2/tree/master/09/subject.pdf) |   100 |
 | [webserv](https://github.com/jgravalo/webserv) | [tasks](https://github.com/jgravalo/webserv/subject.pdf) | 100
-| [inception](https://github.com/jgravalo/Inception) | [tasks](https://github.com/jgravalo/Inception/subject.pdf) | -
-| [ft_transcendence](https://github.com/jgravalo/ft_transcendence)  | [tasks](https://github.com/jgravalo/ft_transcendence/subject.pdf) |   - |
+| [inception](https://github.com/jgravalo/Inception) | [tasks](https://github.com/jgravalo/Inception/subject.pdf) | 100
+| [ft_transcendence](https://github.com/jgravalo/ft_transcendence)  | [tasks](https://github.com/jgravalo/ft_transcendence/subject.pdf) |   125 |
 
 
 ## lvl_0
