@@ -30,7 +30,7 @@
          ├─ webserv/           Web server in C++ 98
          ├─ inception/         Creation of Docker network, with NGINX, Wordpress and MariaDB
       └─ lvl_6/
-         └─ ft_transcendance/  Web application, profile managment, friends, online game and chat
+         └─ ft_transcendance/  Web application, profile management, users, online game, tournaments, chat and cibersecurity
 
 | 42 Project | Subject | Grade| 
 |----------- | ------- |------|
